@@ -1,12 +1,10 @@
 ## Welcome to Otto's Page
 
-You can use the [editor on GitHub](https://github.com/jottotrawick/jottotrawick.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### You can find Otto's [Reel and Portfolio](https://github.com/jottotrawick/jottotrawick.github.io/edit/main/README.md) to view his work and content.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### You can view what Otto is about on his [About page](https://gamestop.com)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### You can find where to contact Otto on his [Contact page](https://gamestop.com)
 
 ```markdown
 Syntax highlighted code block
