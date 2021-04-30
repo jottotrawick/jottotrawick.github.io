@@ -4,7 +4,7 @@
 
 ### You can view what Otto is about on his [About page](https://ottotrawick.wixsite.com/website/about-me)
 
-### You can find where to contact Otto on his [Contact page](https://gamestop.com)
+### You can find where to contact Otto on his [Contact page](https://ottotrawick.wixsite.com/website/contact)
 
 ### You can find and contact Otto through social media on his [Social footer](https://linktr.ee/otray2) 
 
