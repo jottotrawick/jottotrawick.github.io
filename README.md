@@ -2,7 +2,7 @@
 
 ### You can find Otto's [Reel and Portfolio](https://ottotrawick.wixsite.com/website) to view his work and content.
 
-### You can view what Otto is about on his [About page](https://gamestop.com)
+### You can view what Otto is about on his [About page](https://ottotrawick.wixsite.com/website/about-me)
 
 ### You can find where to contact Otto on his [Contact page](https://gamestop.com)
 
