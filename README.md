@@ -1,25 +1,15 @@
 ## Welcome to Otto's Page
 
-### You can find Otto's [Reel and Portfolio](https://github.com/jottotrawick/jottotrawick.github.io/edit/main/README.md) to view his work and content.
+### You can find Otto's [Reel and Portfolio](https://drive.google.com/drive/folders/1pmr39badhWZfb3iP_e-9AoC3svERsXFi?usp=sharing) to view his work and content.
 
 ### You can view what Otto is about on his [About page](https://gamestop.com)
 
 ### You can find where to contact Otto on his [Contact page](https://gamestop.com)
 
-```markdown
-Syntax highlighted code block
+### You can find and Contact Otto through social media on his [Social footer](https://gamestop.com) 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
