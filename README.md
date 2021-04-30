@@ -6,7 +6,7 @@
 
 ### You can find where to contact Otto on his [Contact page](https://gamestop.com)
 
-### You can find and Contact Otto through social media on his [Social footer](https://gamestop.com) 
+### You can find and contact Otto through social media on his [Social footer](https://gamestop.com) 
 
 
 
