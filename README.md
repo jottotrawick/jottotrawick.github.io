@@ -1,15 +1,20 @@
-## Welcome to Otto's Home Page![IMG_1524](https://user-images.githubusercontent.com/83469749/117462027-377fce80-af1c-11eb-86b5-a371bd35f9d5.JPG)
+# WELCOME TO OTTO'S HOME PAGE
+FILMMAKER/EDITOR/WRITER
+![IMG_1428](https://user-images.githubusercontent.com/83469749/117463489-b9bcc280-af1d-11eb-9bc0-12933b3fa90c.JPG)
 
 
-### You can find Otto's [Reel and Portfolio](https://ottotrawick.wixsite.com/website) to view his work and content.
+
+# YOU CAN FIND MORE OF OTTO'S WORK [HERE](https://ottotrawick.wixsite.com/website)
 ![IMG_1600](https://user-images.githubusercontent.com/83469749/117461846-0901f380-af1c-11eb-84ce-202d570a2cb2.JPG)
 
-### You can view what Otto is about on his [About page](https://ottotrawick.wixsite.com/website/about-me)
+# YOU CAN SEE WHAT OTTO'S ABOUT [HERE](https://ottotrawick.wixsite.com/website/about-me)
 
-### You can find where to contact Otto on his [Contact page](https://ottotrawick.wixsite.com/website/contact)
+# YOU CAN CONTACT OTTO [HERE](https://ottotrawick.wixsite.com/website/contact)
+## PHONE NUMBER: 301-944-4232
+## BUSINESS EMAIL: JOTTOTRAWICK@GMAIL.COM
 
-### You can find and contact Otto through social media on his [Social footer](https://linktr.ee/otray2) 
-
+# YOU CAN FIND OTTO ON SOCIAL MEDIA [HERE](https://linktr.ee/otray2) 
+## FEATURING LINKEDIN, YOUTUBE, AND TWITTER
 
 
 
