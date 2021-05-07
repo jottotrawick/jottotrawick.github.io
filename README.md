@@ -4,16 +4,16 @@ FILMMAKER/EDITOR/WRITER
 
 
 
-# YOU CAN FIND MORE OF OTTO'S WORK [HERE](https://ottotrawick.wixsite.com/website) AND [HERE](https://ottotrawick.wixsite.com/website/selected-work) (SHORT STORIES)
+## 1 and 2) YOU CAN FIND MORE OF OTTO'S WORK [HERE](https://ottotrawick.wixsite.com/website) AND [HERE](https://ottotrawick.wixsite.com/website/selected-work) (SHORT STORIES)
 ![IMG_1600](https://user-images.githubusercontent.com/83469749/117461846-0901f380-af1c-11eb-84ce-202d570a2cb2.JPG)
 
-# YOU CAN SEE WHAT OTTO'S ABOUT [HERE](https://ottotrawick.wixsite.com/website/about-me)
+# 3) YOU CAN SEE WHAT OTTO'S ABOUT [HERE](https://ottotrawick.wixsite.com/website/about-me)
 
-# YOU CAN CONTACT OTTO [HERE](https://ottotrawick.wixsite.com/website/contact)
+# 4) YOU CAN CONTACT OTTO [HERE](https://ottotrawick.wixsite.com/website/contact)
 ## PHONE NUMBER: 301-944-4232
 ## BUSINESS EMAIL: JOTTOTRAWICK@GMAIL.COM
 
-# YOU CAN FIND OTTO ON SOCIAL MEDIA [HERE](https://linktr.ee/otray2) 
+# 5) YOU CAN FIND OTTO ON SOCIAL MEDIA [HERE](https://linktr.ee/otray2) 
 ## FEATURING LINKEDIN, YOUTUBE, AND TWITTER
 
 
