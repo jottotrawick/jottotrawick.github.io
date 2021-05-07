@@ -4,7 +4,7 @@ FILMMAKER/EDITOR/WRITER
 
 
 
-# YOU CAN FIND MORE OF OTTO'S WORK [HERE](https://ottotrawick.wixsite.com/website)
+# YOU CAN FIND MORE OF OTTO'S WORK [HERE](https://ottotrawick.wixsite.com/website) AND [HERE](https://ottotrawick.wixsite.com/website/selected-work)
 ![IMG_1600](https://user-images.githubusercontent.com/83469749/117461846-0901f380-af1c-11eb-84ce-202d570a2cb2.JPG)
 
 # YOU CAN SEE WHAT OTTO'S ABOUT [HERE](https://ottotrawick.wixsite.com/website/about-me)
